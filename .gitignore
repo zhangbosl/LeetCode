@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/x64/Debug
+/WordLadder2/x64/Debug
+/49_Group_Anagrams/x64/Debug
+/2_Add_Two_Numbers/x64/Debug
+/1_Two_Sum/x64/Debug
+/17_Letter_Combinations_of_a_Phone_Number/x64/Debug
