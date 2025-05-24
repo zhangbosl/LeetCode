@@ -50,10 +50,10 @@ public:
         for (int i = 1; i < result.size(); ++i) {
             //result_string += ",\"" + to_string(result[i]) + "\"";
             //result_string += ",\"" + printResult(result[i]) + "\"";
-            result_string += "," + printResult(result[i]);
+            result_string += ",\n" + printResult(result[i]);
         }
 
-        result_string += "]";
+        result_string += "]\n";
 
         //cout << "Output: " << result_string << endl;
         return result_string;
